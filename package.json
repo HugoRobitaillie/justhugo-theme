@@ -2,10 +2,13 @@
   "name": "justhugo-theme",
   "displayName": "JustHugo's Theme",
   "description": "personnal theme",
+  "repository": "https://github.com/HugoRobitaillie/justhugo-theme",
   "version": "0.0.1",
+  "publisher": "JustHugo",
   "engines": {
     "vscode": "^1.82.0"
   },
+  "icon": "Justhugo_Social.png",
   "categories": [
     "Themes"
   ],
